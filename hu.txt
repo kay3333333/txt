@@ -59,7 +59,7 @@ CGTN纪录,http://175.10.230.91:8081/tsfile/live/0016_1.m3u8
 
 凤凰香港,https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天新闻,https://ali.hlspull.yximgs.com/live/moa28.flv
 
 江苏卫视, http://183.203.182.117:9616/hls/30/index.m3u8
 江苏卫视,http://175.10.230.91:8081/tsfile/live/0127_1.m3u8
