@@ -22,7 +22,6 @@ CCTV15,http://183.203.182.117:9616/hls/15/index.m3u8
 
 凤凰香港,http://extraott.com:80/live/6772191932/1654508883/473557.m3u8
 
-中天新闻,https://ali.hlspull.yximgs.com/live/moa28.flv
 北京卫视,http://183.203.182.117:9616/hls/16/index.m3u8
 东方卫视,http://183.203.182.117:9616/hls/17/index.m3u8
 吉林卫视,http://183.203.182.117:9616/hls/18/index.m3u8
