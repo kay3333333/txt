@@ -1,21 +1,21 @@
 //HU
 
-CCTV-1,http://183.203.182.117:9616/hls/1/index.m3u8
-CCTV-2,http://183.203.182.117:9616/hls/2/index.m3u8
-CCTV-3,http://183.203.182.117:9616/hls/3/index.m3u8
-CCTV-4,http://183.203.182.117:9616/hls/4/index.m3u8
+CCTV1,http://183.203.182.117:9616/hls/1/index.m3u8
+CCTV2,http://183.203.182.117:9616/hls/2/index.m3u8
+CCTV3,http://183.203.182.117:9616/hls/3/index.m3u8
+CCTV4,http://183.203.182.117:9616/hls/4/index.m3u8
 CCTV5,https://www.freetv.top/migu/641886683.m3u8?migutoken=d74794e471dbe3990d58a9a84d8477e11cbb487a4ac00c9c31eccff6e9f44a58fe69b1ebb6b715f13f80eafd97a9bfe7b0a5a57af6189e7bf7e007f51c476c5befd7e4e479edf0bf4a7de9dbcd
-CCTV-5+,http://183.203.182.117:9616/hls/5/index.m3u8
-CCTV-6,http://183.203.182.117:9616/hls/6/index.m3u8
-CCTV-7,http://183.203.182.117:9616/hls/7/index.m3u8
-CCTV-8,http://183.203.182.117:9616/hls/8/index.m3u8
-CCTV-9,http://183.203.182.117:9616/hls/9/index.m3u8
-CCTV-10,http://183.203.182.117:9616/hls/10/index.m3u8
-CCTV-11,http://183.203.182.117:9616/hls/11/index.m3u8
-CCTV-12,http://183.203.182.117:9616/hls/12/index.m3u8
-CCTV-13,http://183.203.182.117:9616/hls/13/index.m3u8
-CCTV-14,http://183.203.182.117:9616/hls/14/index.m3u8
-CCTV-15,http://183.203.182.117:9616/hls/15/index.m3u8
+CCTV5+,http://183.203.182.117:9616/hls/5/index.m3u8
+CCTV6,http://183.203.182.117:9616/hls/6/index.m3u8
+CCTV7,http://183.203.182.117:9616/hls/7/index.m3u8
+CCTV8,http://183.203.182.117:9616/hls/8/index.m3u8
+CCTV9,http://183.203.182.117:9616/hls/9/index.m3u8
+CCTV10,http://183.203.182.117:9616/hls/10/index.m3u8
+CCTV11,http://183.203.182.117:9616/hls/11/index.m3u8
+CCTV12,http://183.203.182.117:9616/hls/12/index.m3u8
+CCTV13,http://183.203.182.117:9616/hls/13/index.m3u8
+CCTV14,http://183.203.182.117:9616/hls/14/index.m3u8
+CCTV15,http://183.203.182.117:9616/hls/15/index.m3u8
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
