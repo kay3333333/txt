@@ -58,9 +58,7 @@ CCTV9,http://118.249.4.215:8082/hls/10/index.m3u8
 CCTV10,http://118.249.4.215:8082/hls/11/index.m3u8
 CCTV11,http://118.249.4.215:8082/hls/12/index.m3u8
 CCTV12,http://118.249.4.215:8082/hls/13/index.m3u8
-CCTV13,http://118.249.4.215:8082/hls/14/index.m3u8
 CCTV14,http://118.249.4.215:8082/hls/15/index.m3u8
-CCTV15,http://118.249.4.215:8082/hls/16/index.m3u8
 湖南卫视,http://118.249.4.215:8082/hls/17/index.m3u8
 湖南电影,http://118.249.4.215:8082/hls/18/index.m3u8
 湖南公共,http://118.249.4.215:8082/hls/19/index.m3u8
