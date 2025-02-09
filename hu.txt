@@ -8,7 +8,7 @@ CCTV4HD,http://118.249.4.215:8082/hls/4/index.m3u8
 CCTV4HD,http://cssbyd.imwork.net:8082/hls/4/index.m3u8
 CCTV5,http://cssbyd.imwork.net:8082/hls/5/index.m3u8
 CCTV5,http://118.249.4.215:8082/hls/5/index.m3u8
-CCTV5+,http://goo.bkpcp.top/mg/CCTV5p
+CCTV5+,http://223.12.113.197:8083/udp/239.1.1.12:8012
 CCTV6,http://cssbyd.imwork.net:8082/hls/7/index.m3u8
 CCTV6,http://118.249.4.215:8082/hls/7/index.m3u8
 CCTV7,http://118.249.4.215:8082/hls/8/index.m3u8
@@ -31,6 +31,7 @@ CCTV15,http://118.249.4.215:8082/hls/16/index.m3u8
 凤凰资讯HD,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk
 湖南都市,http://183.215.211.219:9998/tsfile/live/1073_1.m3u8
+湖南都市HD,http://118.250.111.57:58888/udp/239.76.252.117:9000
 东南卫视HD,http://118.249.4.215:8082/hls/30/index.m3u8
 东南卫视HD,http://cssbyd.imwork.net:8082/hls/30/index.m3u8
 东方卫视HD,http://118.249.4.215:8082/hls/25/index.m3u8
