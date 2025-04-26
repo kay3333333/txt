@@ -7,7 +7,6 @@ CCTV3,http://nctv.top/IDOEPpiryt/migu.php?id=cctv3
 CCTV4,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4
 CCTV4欧洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4o
 CCTV4美洲,http://nctv.top/IDOEPpiryt/migu.php?id=cctv4m
-CCTV5+,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5p
 CCTV5,http://nctv.top/IDOEPpiryt/migu.php?id=cctv5
 CCTV6,http://nctv.top/IDOEPpiryt/migu.php?id=cctv6
 CCTV7,http://nctv.top/IDOEPpiryt/migu.php?id=cctv7
@@ -22,40 +21,16 @@ CCTV15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
 CCTV16,http://nctv.top/IDOEPpiryt/migu.php?id=cctv16
 CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 
-NBA经典,http://nctv.top/IDOEPpiryt/migu.php?id=nba
-湖南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hunws
-浙江卫视,http://nctv.top/IDOEPpiryt/migu.php?id=zjws
 
-东方卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dfws
-东方影视,http://nctv.top/IDOEPpiryt/migu.php?id=shys
-云南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=ynws
-吉林卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jlws
-四川卫视,http://nctv.top/IDOEPpiryt/migu.php?id=scws
-宁夏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=nxws
-安徽卫视,http://nctv.top/IDOEPpiryt/migu.php?id=ahws
-广东卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gdws
-广西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gxws
 江苏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jsws
 江西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jxws
-河北卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hbws
 河南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hnws
-浙江卫视,http://nctv.top/IDOEPpiryt/migu.php?id=zjws
-湖北卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hbws
 甘肃卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gsws
 贵州卫视,http://nctv.top/IDOEPpiryt/migu.php?id=gzws
 陕西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=sxws
-青海卫视,http://nctv.top/IDOEPpiryt/migu.php?id=qhws
 大湾区卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dwqws
 东南卫视,http://nctv.top/IDOEPpiryt/migu.php?id=dnws
 海峡卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hxws
-上海新闻综合,http://nctv.top/IDOEPpiryt/migu.php?id=shxw
-南京科教,http://nctv.top/IDOEPpiryt/migu.php?id=njkj
-南京十八频道,http://nctv.top/IDOEPpiryt/migu.php?id=njsb
-江苏城市频道,http://nctv.top/IDOEPpiryt/migu.php?id=jscs
-江苏国际,http://nctv.top/IDOEPpiryt/migu.php?id=jsgj
-江苏教育,http://nctv.top/IDOEPpiryt/migu.php?id=jsjy
-江苏影视,http://nctv.top/IDOEPpiryt/migu.php?id=jsys
-江苏综艺,http://nctv.top/IDOEPpiryt/migu.php?id=jszy
-海峡卫视,http://nctv.top/IDOEPpiryt/migu.php?id=hxws
+
 
 
