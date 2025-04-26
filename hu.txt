@@ -21,6 +21,7 @@ CCTV15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15
 CCTV16,http://nctv.top/IDOEPpiryt/migu.php?id=cctv16
 CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17
 
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
 
 江苏卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jsws
 江西卫视,http://nctv.top/IDOEPpiryt/migu.php?id=jxws
